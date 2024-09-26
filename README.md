@@ -1,5 +1,5 @@
 # Algorithm-for-the-generation-of-group-counterfactual-scenarios
-Codebase for my TFM based on the generation of Group Counterfactual Explanations. This work has been done as a continuation of the previous work done by [e-delaney](https://github.com/e-delaney) in [group_cfe](https://github.com/e-delaney/group_cfe)
+Codebase for my TFM based on the generation of Group Counterfactual Explanations. This work has been done as a continuation of the previous work done by [e-delaney](https://github.com/e-delaney) in [group_cfe](https://github.com/e-delaney/group_cfe).
 
 # Requirements
   - Python 3.9 or Python 3.10
